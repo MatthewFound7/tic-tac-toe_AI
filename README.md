@@ -1,4 +1,4 @@
-# Tic-Tac-Toe v3
+# Tic-Tac-Toe v1
 
 A modern implementation of the classic Tic-Tac-Toe game using a Q-learning trained AI player.
 
@@ -13,7 +13,7 @@ A modern implementation of the classic Tic-Tac-Toe game using a Q-learning train
 
 ## 1. Introduction
 
-Tic-Tac-Toe v3 is the current up-to-date version of one of my portfolio projects designed to demonstrate proficiency in building interactive applications with python. The project features a user-friendly UI, and showcases a variety of programming and design skills. This version includes a second page for potential statistics expansion.
+Tic-Tac-Toe v1 is the current up-to-date version of one of my portfolio projects designed to demonstrate proficiency in building interactive applications with python. The project features a user-friendly UI, and showcases a variety of programming and design skills. This version includes a second page for potential statistics expansion.
 
 ## 2. Skills Showcased
 
@@ -60,7 +60,7 @@ At this stage the project activities take place mainly on the interface shown ab
 
 ## 5. Conclusion
 
-Tic-Tac-Toe v3 builds on my working project in Python by adding to the interface, AI, and modular code with the potential for a statistics page!
+Tic-Tac-Toe v1 builds on my working project in Python by adding to the interface, AI, and modular code with the potential for a statistics page!
 
 ## 6. About this Portfolio
 
